@@ -8,7 +8,7 @@ IMG = "https://diewland.github.io/the-keys/assets/{}.png"
 ENGINE = "Jigsaw Engine"
 
 SRC_PATH = "./temp/*/*.png"
-OUTPUT_DIR = "./json2"
+OUTPUT_DIR = "./json"
 SHUFFLE_TIME = 99
 
 # init chunk data
